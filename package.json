@@ -2,6 +2,8 @@
   "name": "kd1k",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
     "@rails/actioncable": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "turbolinks": "^5.2.0"
